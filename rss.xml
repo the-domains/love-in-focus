@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Love in focus]]></title>
         <description><![CDATA[Love in focus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/love-in-focus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 16:50:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 16:55:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/love-in-focus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hawaii]]></title>
+            <description><![CDATA[<article><h1>Hawaii</h1><p>Sample post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b3a5161feb8249140f7e66705e2b6cfc02a7f00.jpg"></article>]]></description>
+            <link>https://thegrid.ai/love-in-focus/hawaii/index.html</link>
+            <guid isPermaLink="false">b5b66a6d-d25f-43bd-b857-43a263f85db2</guid>
+            <pubDate>Tue, 15 Dec 2015 16:55:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Love in Focus]]></title>
             <description><![CDATA[<article><h1>Love in Focus</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5703dcb5681c082da982fa2fbabe1e11f5849613.jpg"></article>]]></description>
-            <link>undefinedlove-in-focus/index.html</link>
+            <link>https://thegrid.ai/love-in-focus/love-in-focus/index.html</link>
             <guid isPermaLink="false">74e54c77-36ac-4f09-b378-44e470fdb179</guid>
             <pubDate>Tue, 15 Dec 2015 16:50:03 GMT</pubDate>
         </item>
