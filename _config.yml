@@ -1,7 +1,7 @@
 name: Love in focus
 favicon: null
-layout_spectrum: 0.7281673431862146
-typography_spectrum: 0.9590607567224652
+layout_spectrum: 0.76204
+typography_spectrum: 0.24759
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#063346'
+    - '#2d5a81'
+    - '#5d82ae'
+    - '#8597c2'
+    - '#b6bbe0'
   brandStrength: 0.11863350286148489
   lightness: 0.8440443619620055
   saturation: 0.17447977070696652
